@@ -15,6 +15,48 @@ Welcome to the SUDO Information Systems Security Resources repository. This hub 
 
 ## 📚 Courses
 
+## M1 - Semester 1
+
+| Module               | Coeff |
+|----------------------|-------|
+| Algorithme           | 3     |
+| Réseaux              | 3     |
+| Génie Logiciel       | 3     |
+| Cryptographie        | 3     |
+| Programmation C++    | 2     |
+| RO                   | 1     |
+| Anglais              | 1     |
+| Cybercriminalité     | 1     |
+
+## M1 - Semester 2
+
+| Module                   | Coeff |
+|--------------------------|-------|
+| Systèmes d’exploitation  | 3     |
+| Applications distribuées | 3     |
+| Réseaux avancés          | 3     |
+| Initiation à la sécurité | 2     |
+| Bases de données         | 3     |
+| Anglais                  | 1     |
+| Entreprenariat           | 1     |
+| Ethique du travail       | 1     |
+
+
+## M2 - Semester 1
+
+| Module                              | Coeff |
+|-------------------------------------|-------|
+| Sécurité des systèmes d’information | 3     |
+| Sécurité des réseaux                | 3     |
+| Sécurité des bases de données       | 3     |
+| Méthodologie de la sécurité         | 2     |
+| Techniques de gestion des identités | 1     |
+| Méthodologie avancée de la sécurité | 2     |
+| Anglais                             | 1     |
+| Gestion de projets                  | 1     |
+| Techniques de rédaction             | 1     |
+
+
 ### 📝 M1 Semester 1 (S1)
 Here you'll find material, links, and resources for courses in Semester 1.
 - [FULL DRIVE - 1](https://drive.google.com/drive/folders/1lZ1g4AWDj0S928RfZPUse86Be12w2yJW?usp=drive_link)
