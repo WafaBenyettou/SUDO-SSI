@@ -42,6 +42,7 @@ A collection of recommended books in the field of Information Systems Security.
 
 ### 🎙️ Podcasts
 Podcasts can be an excellent resource for staying updated and deepening your understanding of cybersecurity. Here are some highly recommended podcasts in the field:
+![image](https://github.com/WafaBenyettou/SUDO-SSI/assets/83190429/d9513f2d-a91d-4aeb-aec9-6ba151fe7845)
 
 #### 🎧 1. Darknet Diaries
 **Host:** Jack Rhysider
@@ -101,6 +102,9 @@ Podcasts can be an excellent resource for staying updated and deepening your und
 
 ### 📺 YouTube Channels
 Here are some highly recommended YouTube channels to help you stay updated and deepen your understanding of cybersecurity:
+
+![image](https://github.com/WafaBenyettou/SUDO-SSI/assets/83190429/8b88837b-fcba-4589-93bb-fffabca69a69)
+
 
 #### 📹 1. HAK5
 **Description:** HAK5 provides tutorials and discussions on various hacking tools and techniques, featuring the popular show “Hack Across America”.
@@ -174,6 +178,9 @@ Here are some highly recommended YouTube channels to help you stay updated and d
 
 ### 🕹️ CTF Platforms
 Sharpen your cybersecurity skills with these CTF platforms:
+
+![image](https://github.com/WafaBenyettou/SUDO-SSI/assets/83190429/e387e238-b373-4a43-8382-db25ea640e7c)
+
 
 #### 🎮 1. Hack The Box (HTB)
 **Description:** A popular platform with a wide range of challenges, including active machines and retired ones for various skill levels.
