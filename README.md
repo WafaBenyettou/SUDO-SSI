@@ -11,7 +11,9 @@ Welcome to the SUDO Information Systems Security Resources repository. This hub 
   - [Podcasts](#podcasts)
   - [YouTube Channels](#youtube-channels)
   - [CTF Platforms](#ctf-platforms)
+- [🌐 Communities](#communities)
 - [🤝 Contributing](#contributing)
+
 
 ## 📚 Courses
 
@@ -272,6 +274,11 @@ Sharpen your cybersecurity skills with these CTF platforms:
 **Description:** A CTF platform with numerous challenges in various categories, including reversing, exploitation, and more.
 
 **Link:** [RingZer0 Team](https://ringzer0ctf.com/)
+
+## 🌐 Communities
+Algerian cybersecurity communities for students:
+- [Shellmates community](https://discord.gg/eTuqwyHxJB)
+- [Nexus community](https://discord.gg/gzyqN5H6Fr)
 
 ## 🤝 Contributing
 Contributions to this repository are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit your contributions.
