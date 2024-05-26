@@ -15,7 +15,8 @@ Welcome to the SUDO Information Systems Security Resources repository. This hub 
 
 ## 📚 Courses
 
-## M1 - Semester 1
+### 📝 M1 Semester 1 (S1)
+Here you'll find material, links, and resources for courses in Semester 1.
 
 | Module               | Coeff |
 |----------------------|-------|
@@ -28,7 +29,14 @@ Welcome to the SUDO Information Systems Security Resources repository. This hub 
 | Anglais              | 1     |
 | Cybercriminalité     | 1     |
 
-## M1 - Semester 2
+- [FULL DRIVE - 1](https://drive.google.com/drive/folders/1lZ1g4AWDj0S928RfZPUse86Be12w2yJW?usp=drive_link)
+- [FULL DRIVE - 2](https://drive.google.com/drive/folders/1GqevblU80ZI-iE9je8dF8aVmJ8Q8-u62?usp=drive_link)
+- [FULL DRIVE - 3](https://drive.google.com/drive/folders/1shG-snPQkpo17hVD6HXhKtLaMeZTFFPw?usp=drive_link)
+- [FULL DRIVE - 4](https://drive.google.com/drive/folders/11tnkd_GTo6rJz32fydDPA9u7nKz1SpHt?usp=drive_link)
+
+### 📝 M1 Semester 2 (S2)
+Explore material, links, and resources for courses in Semester 2.
+
 
 | Module                   | Coeff |
 |--------------------------|-------|
@@ -42,7 +50,12 @@ Welcome to the SUDO Information Systems Security Resources repository. This hub 
 | Ethique du travail       | 1     |
 
 
-## M2 - Semester 1
+- [FULL DRIVE - 1](https://drive.google.com/drive/folders/1p7X_nsQLWaBu9lDjFIR_eNsAzu5wPcOT?usp=drive_link)
+- [FULL DRIVE - 2](https://drive.google.com/drive/folders/1EIBQRsxzk45V86Vl8H-ybEyj0t6THVFh?usp=drive_link)
+
+### 📝 M2 Semester 1 (S1)
+Discover material, links, and resources for courses in Semester 3.
+
 
 | Module                              | Coeff |
 |-------------------------------------|-------|
@@ -57,20 +70,6 @@ Welcome to the SUDO Information Systems Security Resources repository. This hub 
 | Techniques de rédaction             | 1     |
 
 
-### 📝 M1 Semester 1 (S1)
-Here you'll find material, links, and resources for courses in Semester 1.
-- [FULL DRIVE - 1](https://drive.google.com/drive/folders/1lZ1g4AWDj0S928RfZPUse86Be12w2yJW?usp=drive_link)
-- [FULL DRIVE - 2](https://drive.google.com/drive/folders/1GqevblU80ZI-iE9je8dF8aVmJ8Q8-u62?usp=drive_link)
-- [FULL DRIVE - 3](https://drive.google.com/drive/folders/1shG-snPQkpo17hVD6HXhKtLaMeZTFFPw?usp=drive_link)
-- [FULL DRIVE - 4](https://drive.google.com/drive/folders/11tnkd_GTo6rJz32fydDPA9u7nKz1SpHt?usp=drive_link)
-
-### 📝 M1 Semester 2 (S2)
-Explore material, links, and resources for courses in Semester 2.
-- [FULL DRIVE - 1](https://drive.google.com/drive/folders/1p7X_nsQLWaBu9lDjFIR_eNsAzu5wPcOT?usp=drive_link)
-- [FULL DRIVE - 2](https://drive.google.com/drive/folders/1EIBQRsxzk45V86Vl8H-ybEyj0t6THVFh?usp=drive_link)
-
-### 📝 M2 Semester 1 (S1)
-Discover material, links, and resources for courses in Semester 3.
 - [FULL DRIVE 1](https://drive.google.com/drive/folders/11R4KeeAvyKAQuky5ZWHDOyGrDyTDqdrD?usp=drive_link)
 - [FULL DRIVE 2](https://drive.google.com/drive/folders/1Y2Wx7KlVtKkUIa5H5t8jkKmnaZv4hYEW?usp=drive_link)
 - [FULL DRIVE 3](https://drive.google.com/drive/folders/1zjvkmScTqgp6RVtSTSUtm3LQ_mXYqZfm?usp=drive_link)
